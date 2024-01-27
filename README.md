@@ -30,9 +30,21 @@
 
 <h2>🚦 Endpoints</h2>
 
-<h3>Extras</h3>
+<h3>1. /<b>lists</b>/</h3> : shows all best-seller list: fields <i>id, slug, name, display</i></h3>
 
-<h3>/<b>books</b>/<i>(name)</i></h3> : shows all boooks in a given best-seller list if empty shows list (adds google preview)</h3>
+<details>
+  <summary>👇 Show</summary>
+<pre>
+    {
+        "id": 1,
+        "slug": "combined-print-and-e-book-fiction",
+        "name": "Combined Print and E-Book Fiction",
+        "display": "Combined Print & E-Book Fiction"
+    }
+</pre>
+</details>
+
+<h3>2. /<b>books</b>/<i>(name)</i></h3> : shows all boooks in a given best-seller list if empty shows list (adds google preview)</h3>
 
 <details>
   <summary>👇 Show</summary>
