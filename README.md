@@ -11,13 +11,13 @@
 <p align="justify">La scelta del framework e di eventuali librerie è a discrezione del candidato. Caricare l'elaborato in una repository git.</p>
 
 <p align="center">
-<a href="https://nodejs.org/en"><img height="24px" src="./README/nodejs.svg" alt="nodejs"></a>
+<a href="https://nodejs.org/en"><img height="44px" src="./README/nodejs.svg" alt="nodejs"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://expressjs.com"><img height="28px" src="./README/express.svg" alt="express"></a>
+<a href="https://expressjs.com"><img height="44px" src="./README/express.svg" alt="express"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://axios-http.com"><img height="28px" src="./README/axios.svg" alt="axios"></a>
+<a href="https://axios-http.com"><img height="44px" src="./README/axios.svg" alt="axios"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com"><img height="22px" src="./README/vscode.svg" alt="vscode"></a>
+<a href="https://code.visualstudio.com"><img height="44px" src="./README/vscode.svg" alt="vscode"></a>
 </p>
 
 <h2>🧪 Testing</h2>
