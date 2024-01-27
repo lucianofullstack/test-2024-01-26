@@ -5,10 +5,11 @@ const
 
     
     router.get('*', async (req, res) => {
-/*
         const
             response = await getter.lists()
-        if (response.code) {
+/*
+
+            if (response.code) {
             return res.status(response.code).json(response)
         }; return res.status(200).json(response)
         */
