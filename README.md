@@ -36,7 +36,8 @@
 
 <details>
   <summary>👇 Show</summary>
-```json
+```yaml
+{
         "book": {
             "rank": 1,
             "rank_last_week": 1,
@@ -112,6 +113,7 @@
             "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a"
         },
         "google_preview": "https://www.google.it/books/edition/_/6_CLEAAAQBAJ?hl=it&gbpv=0"
+}
 ```
 </details>
 
