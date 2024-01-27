@@ -36,7 +36,7 @@
 
 <details>
   <summary>👇 Show</summary>
-```yaml
+<pre>
 {
         "book": {
             "rank": 1,
@@ -114,7 +114,7 @@
         },
         "google_preview": "https://www.google.it/books/edition/_/6_CLEAAAQBAJ?hl=it&gbpv=0"
 }
-```
+</pre>
 </details>
 
 <h3>Extras</h3>
