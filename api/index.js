@@ -9,13 +9,12 @@
                     '''
 */
 
-const 
-server = require('./src/app.js')
+const
+     server = require('./src/app.js')
 server.listen(process.env.PORT, () => {
-    if (      process.env.NODE_ENV !== 'production' 
-          &&  process.env.VERBOSE > 0 
-       )  
-       {
-            console.log('✔  SERVER listening at '+process.env.PORT)
-       }
-  })
+     if (process.env.NODE_ENV !== 'production'
+          && process.env.VERBOSE > 0
+     ) {
+          console.log('✔  SERVER listening at ' + process.env.PORT)
+     }
+})
