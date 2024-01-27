@@ -32,7 +32,11 @@
 
 <h3>Extras</h3>
 
-<h4>/</h4>
+<h4>/<b>preview</b><i>(number)</i>: shows a basic frontend to test the api, if number is missing shows id 1</h4>
+
+<p align="center">
+<img src="./README/preview.png">
+</p>
 
 <h4>/<b>id</b>/<i>(number)</i>: returns bestseller list by id number and adds google preview url, if number is empty returns all lists</h4>
 
