@@ -369,3 +369,7 @@ Proyect
 ### routes : see routes
 
 ### tests : see testing
+
+<h3>👀 ONE LAST THING</h3>
+
+Look at the NYTimes svg <i>(responsive in dark mode)</i>
