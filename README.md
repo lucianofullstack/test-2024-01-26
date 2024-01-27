@@ -260,9 +260,7 @@
 
 <h2>🏃 Running local</h2>
 
-<h3>Requirements</h3>:
-
-This program requires node preinstalled, I recommend to use the <acronym title="Long Term Support">LTS version</acronym>.
+<h3>Requirements: This program requires node preinstalled, I recommend to use the <acronym title="Long Term Support">LTS version</acronym>.</h3>
 
 <h3>.env <b>API</b> keys</h3>
 
