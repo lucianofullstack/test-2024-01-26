@@ -12,5 +12,6 @@
 
 <h2>🧪 Testing</h2>
 
+<pre>test-2024-01-26 ≡  main > npm test</pre>
 
 
