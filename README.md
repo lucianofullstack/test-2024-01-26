@@ -24,11 +24,11 @@
 
 <h2>🚀 Deploy</h2>
 
-<h3>🖼️ Preview <a href="https://nytimes-test.adaptable.app/preview"></a></h3>
+<h3><a href="https://nytimes-test.adaptable.app/preview">🖼️ Preview </a></h3>
 
-<h3>📋 Lists <a href="https://nytimes-test.adaptable.app/lists"></a></h3>
+<h3><a href="https://nytimes-test.adaptable.app/lists">📋 Lists </a></h3>
 
-<h3>📚 Books <a href="https://nytimes-test.adaptable.app/books/combined-print-and-e-book-fiction"></a></h3>
+<h3><a href="https://nytimes-test.adaptable.app/books/combined-print-and-e-book-fiction">📚 Books </a></h3>
 
 <h2>🧪 Testing</h2>
 
