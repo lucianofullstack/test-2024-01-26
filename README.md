@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 <img src="./README/nytimes.svg">
-</center>
+</p>
 
 
 # test-2024-01-26
