@@ -1,9 +1,8 @@
 const
     { Router } = require('express'),
-    router = Router()
-/*
-    getter = require('../modules/getters')
-*/
+    router = Router(),
+    getter = require('../modules/getters.js')
+
     
     router.get('*', async (req, res) => {
 /*
