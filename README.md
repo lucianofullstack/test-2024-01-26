@@ -29,6 +29,22 @@
 
 <h2>🏃 Running local</h2>
 
+Requirements:
+
+This program requires node preinstalled, I recommend to use the LTS version.
+
+<pre>
+ > git clone https://github.com/lucianofullstack/test-2024-01-26
+
+ > cd test-2024-01-26
+
+ > npm install
+
+ > npm start
+
+</pre>
+
+
 <pre>
      =============== nyt-api v0.1 ===============
 
@@ -49,6 +65,8 @@ Events:
 ✔  ROUTE uptime
 ✔  SERVER listening at 3001
 </pre>
+
+The terminal will show this screen, in order to reduce verbosity see modules defaults, and prompt.
 
 <h2>📂 Proyect Folders</h2>
 
