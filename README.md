@@ -288,6 +288,9 @@ You will need to register in NYTimes Dev in order to get an API KEY and put it i
 
 <pre>
 KEY_NYT=32characterskey
+API=https://api.nytimes.com/svc/books/v3/lists/
+ISBN=https://www.googleapis.com/books/v1/volumes?q=isbn:
+PREVIEW=https://www.google.it/books/edition/_/
 </pre>
 
 Then you are ready to install
