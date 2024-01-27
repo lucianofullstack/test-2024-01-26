@@ -31,7 +31,7 @@
 
 Requirements:
 
-This program requires node preinstalled, I recommend to use the LTS version.
+This program requires node preinstalled, I recommend to use the <acronym title="Long Term Support">LTS version</acronym>.
 
 <pre>
  > git clone https://github.com/lucianofullstack/test-2024-01-26
@@ -84,11 +84,11 @@ Proyect
 
 #### defaults
 
-#### favicon
-
 #### getters
 
 #### prompt
+
+#### favicon
 
 ### README : images shown in this documentation file.
 
