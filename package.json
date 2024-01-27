@@ -1,7 +1,7 @@
 {
   "name": "nyt-api",
   "version": "0.1",
-  "description": "NYTimes consumption backend using node, express, axios, and sequelize.",
+  "description": "NYTimes consumption backend using node, express, and axios.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -L",

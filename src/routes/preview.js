@@ -61,7 +61,7 @@ const html = `
           max-width: 1200px;
           margin: 0 auto;
           display: grid;
-          gap: 1rem;
+          gap: 1.25rem;
           grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
         }
         .card:hover img {
