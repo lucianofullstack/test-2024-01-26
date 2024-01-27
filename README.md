@@ -32,6 +32,91 @@
 
 <h3>Extras</h3>
 
+<h3>/<b>books</b>/<i>(name)</i></h3> : shows all boooks in a given best-seller list if empty shows list (adds google preview)</h3>
+
+<details>
+  <summary>👇 Show</summary>
+```json
+        "book": {
+            "rank": 1,
+            "rank_last_week": 1,
+            "weeks_on_list": 38,
+            "asterisk": 0,
+            "dagger": 0,
+            "primary_isbn10": "1649374046",
+            "primary_isbn13": "9781649374042",
+            "publisher": "Red Tower",
+            "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+            "price": "0.00",
+            "title": "FOURTH WING",
+            "author": "Rebecca Yarros",
+            "contributor": "by Rebecca Yarros",
+            "contributor_note": "",
+            "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+            "book_image_width": 309,
+            "book_image_height": 500,
+            "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20",
+            "age_group": "",
+            "book_review_link": "",
+            "first_chapter_link": "",
+            "sunday_review_link": "",
+            "article_chapter_link": "",
+            "isbns": [
+                {
+                    "isbn10": "1649374046",
+                    "isbn13": "9781649374042"
+                },
+                {
+                    "isbn10": "1649374089",
+                    "isbn13": "9781649374080"
+                },
+                {
+                    "isbn10": "1705085059",
+                    "isbn13": "9781705085059"
+                },
+                {
+                    "isbn10": "1705085032",
+                    "isbn13": "9781705085035"
+                },
+                {
+                    "isbn10": "1649376162",
+                    "isbn13": "9781649376169"
+                }
+            ],
+            "buy_links": [
+                {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20"
+                },
+                {
+                    "name": "Apple Books",
+                    "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+                },
+                {
+                    "name": "Barnes and Noble",
+                    "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+                },
+                {
+                    "name": "Books-A-Million",
+                    "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649374042"
+                },
+                {
+                    "name": "Bookshop",
+                    "url": "https://bookshop.org/a/3546/9781649374042"
+                },
+                {
+                    "name": "IndieBound",
+                    "url": "https://www.indiebound.org/book/9781649374042?aff=NYT"
+                }
+            ],
+            "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a"
+        },
+        "google_preview": "https://www.google.it/books/edition/_/6_CLEAAAQBAJ?hl=it&gbpv=0"
+```
+</details>
+
+<h3>Extras</h3>
+
 <h4>/<b>preview</b><i>(number)</i>: shows a basic frontend to test the api, if number is missing shows id 1</h4>
 
 <p align="center">
@@ -157,6 +242,7 @@
 </pre>
 </details>
 
+<h4>/<b>favicon.ico</b>: shows the favicon.ico stored base64 in favicon module</h4>
 
 <h2>🏃 Running local</h2>
 
