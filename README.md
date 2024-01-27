@@ -27,7 +27,7 @@
 
       6 passing (4s)
 
-<h2>Running local</h2>
+<h2>🏃 Running local</h2>
 
 <pre>
      =============== nyt-api v0.1 ===============
