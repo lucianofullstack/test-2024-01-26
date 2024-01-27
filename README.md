@@ -12,7 +12,7 @@
 
 <a href="https://nodejs.org/en"><img height="24px" src="./README/nodejs.svg" alt="nodejs"></a>
 <a href="https://expressjs.com"><img height="24px" src="./README/express.svg" alt="express"></a>
-<a href="https://axios-http.com"><img height="24px" src="./README/axios.svg" alt="axios"></a>
+<a href="https://axios-http.com"><img height="10px" src="./README/axios.svg" alt="axios"></a>
 <a href="https://code.visualstudio.com"><img height="24px" src="./README/vscode.svg" alt="vscode"></a>
 
 
