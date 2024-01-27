@@ -14,12 +14,10 @@ const
     },
 
     lists = async () => {
-/*
         let now = new Date().getTime()
         nytApiListsCallTime = nytApiListsCallTime || now
         let timeOffset = Math.round((now - nytApiListsCallTime) / 1000) > secondsCache ? true : false
         if (!nytApiListsData || timeOffset) {
-*/
             const
                 response = await axios
                     .get(`${process.env.API}names?api-key=${process.env.KEY_NYT}`)
@@ -44,11 +42,11 @@ const
                     })
                 }
 
-//                nytApiListsCallTime = now
+                nytApiListsCallTime = now
             } else {
                 return errors(response)
             }
-//        }
+        }
         return nytApiListsData
     },
 
