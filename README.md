@@ -260,9 +260,19 @@
 
 <h2>🏃 Running local</h2>
 
-Requirements:
+<h3>Requirements</h3>:
 
 This program requires node preinstalled, I recommend to use the <acronym title="Long Term Support">LTS version</acronym>.
+
+<h3>.env <b>API</b> keys</h3>
+
+You will need to register in NYTimes Dev in order to get an API KEY and put it in your .env file
+
+<pre>
+KEY_NYT=32characterskey
+</pre>
+
+Then you are ready to install
 
 <pre>
  > git clone https://github.com/lucianofullstack/test-2024-01-26
