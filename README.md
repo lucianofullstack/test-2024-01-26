@@ -27,7 +27,30 @@
 
       6 passing (4s)
 
-<h2>Proyect Files</h2>
+<h2>Running local</h2>
+
+<pre>
+     =============== nyt-api v0.1 ===============
+
+     [ PC ] is listening on port 3001
+
+     OS: Windows_NT - Cores: 8 - KEY: present
+
+     Running Since: Fri, 26 Jan 2024 14:01:31 GMT
+
+     ============================================
+
+Events:
+
+✔  ROUTE books
+✔  ROUTE id
+✔  ROUTE lists
+✔  ROUTE preview
+✔  ROUTE uptime
+✔  SERVER listening at 3001
+</pre>
+
+<h2>📂 Proyect Folders</h2>
 
 <pre>
 Proyect
@@ -38,3 +61,19 @@ Proyect
 │   └───routes
 └───tests
 </pre>
+
+### modules : 
+
+#### defaults
+
+#### favicon
+
+#### getters
+
+#### prompt
+
+### README : images shown in this documentation file.
+
+### routes : see routes
+
+### tests : see testing
