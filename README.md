@@ -323,11 +323,23 @@ Proyect
 
 #### defaults
 
+<p>Depending if your are running in development or production declare defaults and reads env file in order to have an extra security layer only takes certain values from config, also allows to control verbosity of terminal</p>
+
 #### getters
+
+- <b>errors</b>: helper function to treat NYTimes api errors and add important imformation like api errors
+- <b>lists</b>: helper function to retrieve all best sellers lists
+- <b>listBySlug</b>: helper function to retrieve best seller lists by slug
+- <b>listById</b>: helper function to retrieve best seller lists by id
+- <b>preview</b>: helper function to show a preview by best sellers list id
 
 #### prompt
 
+<p>Terminal ansi eyecandy and information</p>
+
 #### favicon
+
+<p>Serves a base64 favicon.ico</p>
 
 ### README : images shown in this documentation file.
 
