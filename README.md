@@ -14,4 +14,16 @@
 
 <pre></> npm test</pre>
 
+  ⚙️ Routes
+
+         Status
+
+      ✔  GET /favicon.ico should get 200
+      ✔  GET /amazon should get 404
+      ✔  GET /lists should get 200 (1482ms)
+      ✔  GET /books/hardcover-fiction should get 200 (785ms)
+      ✔  GET 1st book in hardcover fiction to return rank (865ms)
+      ✔  GET 2nd book in hardcover-fiction with google_preview (699ms)
+
+      6 passing (4s)
 
