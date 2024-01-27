@@ -12,7 +12,6 @@
 
 <h2>☕ Tools</h2>
 
-
 <p align="center">
 <a href="https://nodejs.org/en"><img height="44px" src="./README/nodejs.svg" alt="nodejs"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,6 +21,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://code.visualstudio.com"><img height="44px" src="./README/vscode.svg" alt="vscode"></a>
 </p>
+
+<h2>🚀 Deploy</h2>
+
+<h3>🖼️ Preview <a href="https://nytimes-test.adaptable.app/preview"></a></h3>
+
+<h3>📋 Lists <a href="https://nytimes-test.adaptable.app/lists"></a></h3>
+
+<h3>📚 Books <a href="https://nytimes-test.adaptable.app/books/combined-print-and-e-book-fiction"></a></h3>
 
 <h2>🧪 Testing</h2>
 
