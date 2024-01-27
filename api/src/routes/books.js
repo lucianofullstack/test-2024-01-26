@@ -1,5 +1,4 @@
 const
-    axios = require('axios'),
     { Router } = require('express'),
     getter = require('../modules/getters'),
     router = Router()

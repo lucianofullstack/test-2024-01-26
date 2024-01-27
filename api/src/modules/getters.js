@@ -2,8 +2,7 @@ const
     secondsCache = 60,  // number of seconds in memory cache between api calls for lists
     previewLang = '?hl=it&gbpv=0',
     axios = require('axios'),
-    { Router } = require('express'),
-    router = Router(),
+
     errors = (data) => {
         const err = {
             "code": data.response.status,
